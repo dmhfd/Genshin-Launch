@@ -1,0 +1,9 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+IDB_GIF1                GIF                     "1.gif"
+IDI_ICO1                ICON                     "1.ico"
+IDR_WAV1                WAVE                     "1.wav"
+
+
